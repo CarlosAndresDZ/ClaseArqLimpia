@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D40E7516-CE42-4D6E-A96E-F63C9788F4D5}|ReservacionesRestfull\\ReservacionesRestfull.csproj|solutionrelative:reservacionesrestfull\\bussiness\\services\\reservationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D40E7516-CE42-4D6E-A96E-F63C9788F4D5}|ReservacionesRestfull\\ReservacionesRestfull.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestfull\\reservacionesrestfull\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D40E7516-CE42-4D6E-A96E-F63C9788F4D5}|ReservacionesRestfull\\ReservacionesRestfull.csproj|solutionrelative:reservacionesrestfull\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D40E7516-CE42-4D6E-A96E-F63C9788F4D5}|ReservacionesRestfull\\ReservacionesRestfull.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\reservacionesrestfull\\reservacionesrestfull\\presentation\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D40E7516-CE42-4D6E-A96E-F63C9788F4D5}|ReservacionesRestfull\\ReservacionesRestfull.csproj|solutionrelative:reservacionesrestfull\\presentation\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,12 +65,21 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReservacionesRestfull\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReservacionesRestfull\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T17:45:47.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\appsettings.json",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\appsettings.json",
@@ -79,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReservacionesRestfull",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\ReservacionesRestfull.csproj",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\ReservacionesRestfull.csproj",
@@ -91,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Presentation\\Controller\\ReservationController.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Presentation\\Controller\\ReservationController.cs",
@@ -104,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Bussiness\\Entities\\Reservation.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Bussiness\\Entities\\Reservation.cs",
@@ -123,14 +136,18 @@
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Bussiness\\Services\\ReservationServiceImpl.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Bussiness\\Services\\ReservationServiceImpl.cs",
               "RelativeToolTip": "ReservacionesRestfull\\Bussiness\\Services\\ReservationServiceImpl.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:35:37.429Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IReservationService.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Bussiness\\Services\\IReservationService.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Bussiness\\Services\\IReservationService.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ReservationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Data\\Repositories\\ReservationRepository.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Data\\Repositories\\ReservationRepository.cs",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Data\\Repositories\\RoomRepository.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Data\\Repositories\\RoomRepository.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Program.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Program.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReservationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Data\\DTO\u0027s\\ReservationDTO.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Data\\DTO\u0027s\\ReservationDTO.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Bussiness\\Entities\\User.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Bussiness\\Entities\\User.cs",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\ReservacionesRestfull\\ReservacionesRestfull\\Data\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "ReservacionesRestfull\\Data\\Repositories\\UserRepository.cs",
